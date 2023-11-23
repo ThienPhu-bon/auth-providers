@@ -1,9 +1,9 @@
 <?php
 
 // Google API configuration
-define('GOOGLE_CLIENT_ID', '-');
-define('GOOGLE_CLIENT_SECRET', '-');
-define('GOOGLE_REDIRECT_URL', 'http://localhost/PHP/authgoogle/');
+define('GOOGLE_CLIENT_ID', '225723382941-1h185hsco4up6h4p8uvph26q40bio5db.apps.googleusercontent.com');
+define('GOOGLE_CLIENT_SECRET', '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');
+define('GOOGLE_REDIRECT_URL', 'http://localhost/DOAN1\DOAN1');
 
 //Include Google Client Library for PHP autoload file
 require_once 'vendor/autoload.php';
